@@ -1,40 +1,32 @@
 # 🏆 Personal Achievements
 
-<p align="center">
-  <img src="Achievements-poster(1).png" alt="Personal Achievements" width="100%">
-</p>
+A collection of my academic and extracurricular achievements.
+
+![Personal Achievements](./personal-achievements.png)
 
 ---
 
-## 💃 Dance – NSQF Level 3
+## 🎓 Academic Achievement
 
-**Dancer (NSQF Level 3) — Grade A-**
+### Dr. Banikanta Kakati Award
 
-Successfully completed the **Dancer (NSQF Level 3)** qualification under the **RPL course**, issued by the **Media & Entertainment Skills Council**.
+For Higher Secondary achievement.
 
-📅 **Issued:** April 2023  
-🏅 **Grade:** A-
-
-### 📜 Certificate
-
-<p align="center">
-  <img src="Dance_NSQF_Level_3_Certificate.pdf" alt="Dance NSQF Level 3 Certificate" width="85%">
-</p>
+**Awarded under the Pragyan Bharati Scheme of the Government of Assam.**
 
 ---
 
-## 🏅 Dr. Banikanta Kakati Award 
+## 💃 Extracurricular Achievement
 
-Received the **Dr. Banikanta Kakati Award 2023** for securing **1st Division in the H.S. Examination ** under the **Pragyan Bharati Scheme of the Government of Assam**.
+### Dance – NSQF Level 3 Certificate
 
-### 📜 Certificate
-
-<p align="center">
-  <img src="Dr_Banikanta_Kakati_Award_2023.pdf" alt="Dr. Banikanta Kakati Award 2023" width="85%">
-</p>
+Successfully completed the **Dancer (NSQF Level 3) qualification** under the **RPL Course** with **Grade A-**, issued by the **Media & Entertainment Skills Council**.
 
 ---
 
-## ✨ About This Repository
+### ✨ What These Achievements Represent
 
-This repository showcases selected **academic achievements, certifications, and extracurricular accomplishments**.
+- 🎓 Academic dedication
+- 💃 Creative expression
+- 🌱 Personal growth
+- 💪 Discipline and consistency
