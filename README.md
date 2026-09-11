@@ -1,7 +1,7 @@
 # 🏆 Personal Achievements
 
 <p align="center">
-  <img src="achievements-poster.png" alt="Personal Achievements" width="100%">
+  <img src="Achievements-poster.png" alt="Personal Achievements" width="100%">
 </p>
 
 ---
