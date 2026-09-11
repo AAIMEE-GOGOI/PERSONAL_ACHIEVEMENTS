@@ -3,6 +3,15 @@
 ![Personal Achievements](./personal-achievements.png)
 
 ---
+## 💃 Extracurricular Achievement
+
+### Dance – NSQF Level 3 Certificate
+
+Successfully completed the **Dancer (NSQF Level 3) qualification** under the **RPL Course** with **Grade A-**, issued by the **Media & Entertainment Skills Council**.
+
+📜 [View Dance Certificate](./Dance_NSQF_Level_3_Certificate.pdf)
+
+---
 
 ## 🎓 Academic Achievement
 
@@ -16,15 +25,7 @@ For Higher Secondary achievement.
 
 ---
 
-## 💃 Extracurricular Achievement
 
-### Dance – NSQF Level 3 Certificate
-
-Successfully completed the **Dancer (NSQF Level 3) qualification** under the **RPL Course** with **Grade A-**, issued by the **Media & Entertainment Skills Council**.
-
-📜 [View Dance Certificate](./Dance_NSQF_Level_3_Certificate.pdf)
-
----
 
 ## ✨ What These Achievements Represent
 
@@ -32,3 +33,5 @@ Successfully completed the **Dancer (NSQF Level 3) qualification** under the **R
 - 💃 Creative expression
 - 🌱 Personal growth
 - 💪 Discipline and consistency
+
+
