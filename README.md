@@ -16,7 +16,7 @@ Successfully completed the **Dancer (NSQF Level 3)** qualification under the RPL
 
 ---
 
-## 🏅 Dr. Banikanta Kakati Award 2023
+## 🏅 Dr. Banikanta Kakati Award 
 
 Awarded for securing **1st Division in the H.S. Examination 2023** under the Pragyan Bharati Scheme of the Government of Assam.
 
