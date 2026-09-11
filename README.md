@@ -21,5 +21,5 @@ Successfully completed the **Dancer (NSQF Level 3)** qualification under the RPL
 Awarded for securing **1st Division in the H.S. Examination 2023** under the Pragyan Bharati Scheme of the Government of Assam.
 
 <p align="center">
-  <img src="Dr_Banikanta_Kakati_Award_2023.pdf" width="80%">
+  <img src="Dr_Banikanta_Kakati_Award_Assam-Gov.pdf" width="80%">
 </p>
