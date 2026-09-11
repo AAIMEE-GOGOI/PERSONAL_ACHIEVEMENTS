@@ -12,7 +12,7 @@ For Higher Secondary achievement.
 
 **Awarded under the Pragyan Bharati Scheme of the Government of Assam.**
 
-📜 [View Award Certificate](./Dr-Banikanta-Kakati-Award-Assam.pdf)
+📜 [View Award Certificate](./Dr-Banikanta-Kakati-Award-Assam-Gov.pdf)
 
 ---
 
