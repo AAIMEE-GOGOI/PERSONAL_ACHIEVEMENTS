@@ -1,7 +1,5 @@
 # 🏆 Personal Achievements
 
-A collection of my academic and extracurricular achievements.
-
 ![Personal Achievements](./personal-achievements.png)
 
 ---
@@ -14,6 +12,8 @@ For Higher Secondary achievement.
 
 **Awarded under the Pragyan Bharati Scheme of the Government of Assam.**
 
+📜 [View Award Certificate](./Dr-Banikanta-Kakati-Award-Assam.pdf)
+
 ---
 
 ## 💃 Extracurricular Achievement
@@ -22,9 +22,11 @@ For Higher Secondary achievement.
 
 Successfully completed the **Dancer (NSQF Level 3) qualification** under the **RPL Course** with **Grade A-**, issued by the **Media & Entertainment Skills Council**.
 
+📜 [View Dance Certificate](./Dance_NSQF_Level_3_Certificate.pdf)
+
 ---
 
-### ✨ What These Achievements Represent
+## ✨ What These Achievements Represent
 
 - 🎓 Academic dedication
 - 💃 Creative expression
